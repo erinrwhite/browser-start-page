@@ -8,6 +8,7 @@ some of the uses of this script:
  - compose tweets with character counter
  - count number of characters in pasted text
  - compose brief html snippets
+ - quick n' dirty text editing
 
 [demo page](http://www.people.vcu.edu/~erwhite/code/startpage.html)
 
